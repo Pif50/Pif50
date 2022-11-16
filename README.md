@@ -2,13 +2,26 @@
 
 **Who I am:**
 - 📚 I’m a Blockchain Developer student. 
-- 🏈 I play American Football for 9 years and I play in Padua. The city where I live. I like to practice sports and have fun whit them. 
+- 🏈 I play American Football for 10 years and I play in Padua. The city where I live. I like to practice sports and have fun whit them. 
 - 🔗 I have a passion for cryptocurrencies and blockchain technology.
 - 📍 I like to find a job In the blockchain industry.
 
+# 🚀 **Projects**
+
+List of projects I made with love
+
+| Name | Description |
+| --- | --- |
+| <a href="https://pif50.github.io/"><b>Portfolio</b></a> | My personal website |
+| <a href="https://github.com/Pif50/Progetto_Python_Pierfrancesco_Tripodi"><b>Reportistica</b></a> | Reportistica dei prezzi delle top 20 criptovalute |
+| <a href="https://github.com/Pif50/progetto_dango_pierfrancesco_tripodi"><b>SocialDex</b></a> | Applicazione web che permette di scrivere articoli verificati tramite tecnologia blockchain |
+| <a href="https://github.com/Pif50/progetto_mongodb_pierfrancesco_tripodi"><b>Exchange</b></a> | Applicazione web che permette di acquistare e vendere bitcoin |
+| <a href="https://github.com/Pif50/Progetto-Ethereum-Web3-di-Pier-Francesco-Tripodi"><b>Hogwarts NFT</b></a> | A NFT Contract will mint one of four Houses of hogwarts |
+
 ### 🌐 Skills
 
-**Dev:**
+**Language:**
+<br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
