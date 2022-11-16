@@ -6,9 +6,9 @@
 - 🔗 I have a passion for cryptocurrencies and blockchain technology.
 - 📍 I like to find a job In the blockchain industry.
 
-# 🚀 **Projects**
 
-List of projects I made with love
+
+# 🚀 **Projects**
 
 | Name | Description |
 | --- | --- |
@@ -36,9 +36,13 @@ List of projects I made with love
 
 
 **Databases:**
+<br>
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+### Profiles:
+[![tackOverFlow](https://aleen42.github.io/badges/src/stackoverflow.svg
+)](https://stackoverflow.com/users/17830991/pier-francesco?tab=topactivity)
 
 ### Contacts: 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pier-francesco-tripodi-073539223/)
