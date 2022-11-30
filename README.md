@@ -17,7 +17,7 @@
 | <a href="https://github.com/Pif50/progetto_dango_pierfrancesco_tripodi"><b>SocialDex</b></a> | Applicazione web che permette di scrivere articoli verificati tramite tecnologia blockchain |
 | <a href="https://github.com/Pif50/progetto_mongodb_pierfrancesco_tripodi"><b>Exchange</b></a> | Applicazione web che permette di acquistare e vendere bitcoin |
 | <a href="https://github.com/Pif50/Progetto-Ethereum-Web3-di-Pier-Francesco-Tripodi"><b>Hogwarts NFT</b></a> | An NFT Contract will mint one of the four Houses of Hogwarts |
-| <a href="https://github.com/Pif50/Progetto-Ethereum-Web3-di-Pier-Francesco-Tripodi"><b>Counter</b></a> | A simple JavaScript Counter |
+| <a href="https://github.com/Pif50/counter"><b>Counter</b></a> | A simple JavaScript Counter |
 
 ### 🌐 Skills
 
